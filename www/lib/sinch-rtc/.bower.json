@@ -1,0 +1,46 @@
+{
+  "name": "sinch-rtc",
+  "version": "1.3.1",
+  "homepage": "https://github.com/sinch/sinch-js-rtc",
+  "authors": [
+    "magnus.lundstedt <magnus@sinch.com>"
+  ],
+  "description": "Sinch JS SDK for real time communication, voice and IM",
+  "main": "sinch.min.js",
+  "keywords": [
+    "Sinch",
+    "JS",
+    "SDK",
+    "WebRTC",
+    "VoIP",
+    "cloud",
+    "calling",
+    "IM",
+    "web",
+    "conference",
+    "SMS",
+    "verification",
+    "twofactor",
+    "auth"
+  ],
+  "license": "Proprietary",
+  "ignore": [
+    "**/.*",
+    "node",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "!sinch.min.js"
+  ],
+  "_release": "1.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.3.1",
+    "commit": "87d0021d9ef33a5fe0fb35ffa97b36578554bf5d"
+  },
+  "_source": "git://github.com/sinch/sinch-js-rtc.git",
+  "_target": "~1.3.1",
+  "_originalSource": "sinch-rtc",
+  "_direct": true
+}

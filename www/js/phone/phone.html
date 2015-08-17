@@ -1,0 +1,12 @@
+<ion-view>
+    <ion-nav-title>Phone</ion-nav-title>
+    <ion-content>
+        <div class="list">
+            <label class="item item-input item-floating-label">
+                <span class="input-label">Username</span>
+                <input type="text" placeholder="Username" ng-model="username" id="username">
+            </label>
+        </div>
+        <button class="button button-block" ng-disabled="!ready" ng-click="voiceCall(username)">Voice Call</button>
+    </ion-content>
+</ion-view>
